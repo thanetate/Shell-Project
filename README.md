@@ -29,10 +29,16 @@ The shell includes error handling for memory allocation failures, invalid comman
 Key Functions:
 
 readLine(): Reads a line of input from the user.
+
 changedir(char **arguments): Changes the current directory or returns to the home directory.
+
 CommandLoop(): Continuously prompts the user for input, parses commands, and executes them.
+
 removeSubstring(char *line, const char *substring): Removes a specified substring from a string.
+
 Path(char **arguments): Modifies or displays the PATH environment variable based on provided arguments.
+
+
 Usage:
 
 Interactive Mode:
