@@ -44,7 +44,11 @@ Run the shell executable with a batch file name as an argument to execute comman
 Example Commands:
 
 cd /path/to/directory: Change the current working directory to /path/to/directory.
+
 path + /new/path: Append /new/path to the PATH environment variable.
+
 path - /path/to/remove: Remove /path/to/remove from the PATH environment variable.
+
 ./shell batchfile.txt: Execute commands from batchfile.txt.
+
 This shell project provides a foundation for understanding basic shell functionality and can be expanded with additional features and improvements as needed
