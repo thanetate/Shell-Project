@@ -9,3 +9,6 @@ In our CSCE 3600 Shell Project, we developed a basic command-line interpreter in
 * PATH Environment Variable Management: The Path function allows users to view or modify the PATH environment variable, including appending or removing paths, with the help of removeSubstring for path modifications.
 * Batch File Execution: Commands can be executed from batch files, reading and processing each line as a separate command.
 
+<br />
+<br />
+<img width="1000" alt="SS 1" src="https://github.com/user-attachments/assets/b496ce88-3af2-4d69-befe-ce40fcf57f24">
